@@ -1,0 +1,14 @@
+---
+language: node_js
+node_js:
+  - "4"
+
+sudo: false
+
+cache:
+  directories:
+    - $HOME/.npm
+    - $HOME/.cache # includes bowers cache
+
+install:
+  - npm install

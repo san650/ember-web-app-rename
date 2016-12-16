@@ -1,0 +1,6 @@
+/test
+/tmp
+**/.gitkeep
+.editorconfig
+.gitignore
+.travis.yml

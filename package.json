@@ -1,6 +1,6 @@
 {
   "name": "ember-web-app-rename",
-  "version": "0.0.0",
+  "version": "1.0.0-beta.1",
   "description": "This addon is part of ember-web-app. It implements the manifest rename functionality used by ember-web-app",
   "keywords": [
     "ember-addon",

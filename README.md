@@ -31,7 +31,6 @@ This addon is included automatically by [`ember-web-app`](https://github.com/san
 $ git clone https://github.com/san650/ember-web-app-rename.git
 $ cd $_
 $ yarn          # (or npm install)
-$ bower install
 ```
 
 Running tests

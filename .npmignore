@@ -4,3 +4,4 @@
 .editorconfig
 .gitignore
 .travis.yml
+yarn.lock
